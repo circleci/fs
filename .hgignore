@@ -1,0 +1,7 @@
+syntax glob
+
+.lein-failures
+lib
+classes
+pom.xml
+README.html
