@@ -2,6 +2,11 @@
 fs - File system utilities for Clojure
 ======================================
 
+.. Attention:: Anthony Grimes (Raynes) is now the maintainer of this project. 
+    It is now hosted at https://github.com/Raynes/fs.
+
+    This repository is here for "historical" reasons only :)
+    
 About
 =====
 This library tries to provide Clojure code for handling the file system.
